@@ -7,4 +7,4 @@ Billing accounts closed for GCP
 
 
 # Azure
-![Azure1](https://github.com/user-attachments/assets/8441023e-cf7b-4095-9210-7f6df9545d33)
+![Azure1](https://github.com/user-attachments/assets/27907b05-dd3c-4c26-ad8a-b0d874aa3ac7)
